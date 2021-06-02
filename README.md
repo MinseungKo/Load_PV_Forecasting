@@ -2,6 +2,9 @@
 
 Codes for "Feedforward Error Learning Deep Neural Networks for Multivariate Deterministic Power Forecasting", for publication in IEEE Transactions on Industrial Informatics.
 
+### Authours
+Min-seung Ko, Kwangsuk Lee, and Kyeon Hur
+
 ### Dataset
 Load data of ISO-NE: https://www.iso-ne.com/system-planning/system-forecasting/load-forecast
 Weather data of ISO-NE: https://sam.nrel.gov/weather-data.html
