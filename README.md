@@ -1,8 +1,12 @@
-# NetLoadForecasting
+# Load & PV Forecasting
 
-Codes for "Deep Neural Networks for Short-Term Net Load Forecasting Considering Behind-the-Meter PV", for publication in special issue "Advances in Renewable Energy Forecasting: Predictability, Business Models and Applications in the Power Industry" of IEEE Transactions of Sustainable Energy.
+Codes for "Feedforward Error Learning Deep Neural Networks for Multivariate Deterministic Power Forecasting", for publication in IEEE Transactions on Industrial Informatics.
 
 ### Dataset
-Solar data of ISO New England (ISO-NE): https://www.iso-ne.com/isoexpress/web/reports/operations/-/tree/daily-gen-fuel-type
 Load data of ISO-NE: https://www.iso-ne.com/system-planning/system-forecasting/load-forecast
-Weather data: https://sam.nrel.gov/weather-data.html
+Weather data of ISO-NE: https://sam.nrel.gov/weather-data.html
+Solar data of Korea: https://www.data.go.kr/data/15025486/fileData.do
+Weather data of Korea: https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36
+
+### Codes
+Load forecasting and Solar output forecasting codes are attached in the branches
