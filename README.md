@@ -1,6 +1,6 @@
 # Load & PV Forecasting
 
-Codes for "Feedforward Error Learning Deep Neural Networks for Multivariate Deterministic Power Forecasting", for publication in IEEE Transactions on Industrial Informatics.
+Codes of "Feedforward Error Learning Deep Neural Networks for Multivariate Deterministic Power Forecasting" for possible publication in IEEE Transactions on Industrial Informatics.
 
 ### Authours
 Min-seung Ko, Kwangsuk Lee, and Kyeon Hur
