@@ -11,6 +11,6 @@ Min-seung Ko, Kwangsuk Lee, and Kyeon Hur
 * Weather data of Korea: https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36 
 
 ### Codes
-Load forecasting and Solar output forecasting codes are attached in the branches
-Load forecasting: https://github.com/MinseungKo/Load_PV_Forecasting/tree/ISONE_LOADFORECASTING
-Solar(PV) output forecasting: https://github.com/MinseungKo/Load_PV_Forecasting/tree/Korean_SolarForecasting
+- Load forecasting and Solar output forecasting codes are attached in the branches
+- Load forecasting: https://github.com/MinseungKo/Load_PV_Forecasting/tree/ISONE_LOADFORECASTING
+- Solar(PV) output forecasting: https://github.com/MinseungKo/Load_PV_Forecasting/tree/Korean_SolarForecasting
